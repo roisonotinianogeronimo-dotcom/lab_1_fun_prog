@@ -10,6 +10,7 @@ namespace Ejercicio2
     {
         static void Main(string[] args)
         {
+            // Rama de desarrollo para el laboratorio
             string[] nombres = new string[5];
 
             nombres[0] = "Luis Angel";
