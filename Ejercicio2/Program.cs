@@ -22,6 +22,7 @@ namespace Ejercicio2
             {
                 Console.WriteLine(nombres[i]);
             }
+            // Modificación para el primer commit
         }
     }
 }
